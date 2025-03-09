@@ -85,7 +85,7 @@ Logisim is a free and open-source logic circuit simulator used for designing and
 ## Running Simulations
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/DLD-Simulation.git
+   git clone https://github.com/Mehedi-16/DLD-Simulation.git
    ```
 2. Open the relevant simulation files in your preferred tool (e.g., Logisim, Quartus, Verilog, etc.).
 3. Run the simulations and analyze circuit behavior.
