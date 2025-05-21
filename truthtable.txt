@@ -1,5 +1,5 @@
 # Truth table
-# Exported on Mon May 19 20:38:23 BDT 2025
+# Exported on Wed May 21 07:16:58 BDT 2025
 
 # Hints and Notes on Formatting:
 # * You can edit this file then import it back into Logisim!
@@ -13,21 +13,13 @@
 # * You can use binary (e.g., '10100011xxxx') notation or
 #   or hex (e.g., 'C3x'). Logisim will figure out which is which.
 
-D C B A | a b c d e f g
-~~~~~~~~~~~~~~~~~~~~~~~
-0 0 0 0 | - - - - - - -
-0 0 0 1 | - - - - - - -
-0 0 1 0 | - - - - - - -
-0 0 1 1 | - - - - - - -
-0 1 0 0 | - - - - - - -
-0 1 0 1 | - - - - - - -
-0 1 1 0 | - - - - - - -
-0 1 1 1 | - - - - - - -
-1 0 0 0 | - - - - - - -
-1 0 0 1 | - - - - - - -
-1 0 1 0 | - - - - - - -
-1 0 1 1 | - - - - - - -
-1 1 0 0 | - - - - - - -
-1 1 0 1 | - - - - - - -
-1 1 1 0 | - - - - - - -
-1 1 1 1 | - - - - - - -
+a b c | D[7..0] 
+~~~~~~~~~~~~~~~~
+0 0 0 | --------
+0 0 1 | --------
+0 1 0 | --------
+0 1 1 | --------
+1 0 0 | --------
+1 0 1 | --------
+1 1 0 | --------
+1 1 1 | --------
